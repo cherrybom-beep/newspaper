@@ -28,12 +28,11 @@ BASE_URL = "https://news.einfomax.co.kr"
 MY_COOKIE = "__utma=124704158.256945133.1773035052.1775713264.1775715334.17; __utmz=124704158.1773035052.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.1.256945133.1773035052; _ga_DV8PW0Y6Y0=GS2.1.s1775715333$o20$g1$t1775715334$j59$l0$h0; _gid=GA1.3.825370968.1775633534; __utmc=124704158"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     "Accept-Language": "ko-KR,ko;q=0.9",
     "Connection": "keep-alive",
     "Referer": "https://news.einfomax.co.kr/",
-    "Cookie": MY_COOKIE
+    "Cookie": _ga_DV8PW0Y6Y0=GS2.1.s1781776138$o1$g0$t1781776138$j60$l0$h0; _ga=GA1.3.469060117.1781776139; _gid=GA1.3.830429357.1781776140; _gat=1; __utma=124704158.469060117.1781776139.1781776140.1781776140.1; __utmc=124704158; __utmz=124704158.1781776140.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmt=1; __utmb=124704158.1.10.1781776140
 }
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
