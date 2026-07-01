@@ -1,0 +1,12 @@
+{
+  "overall": "주의",
+  "warnings": [
+    "QA failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+    "v43 품질통과 후보 부족: 정부/국회 2건 / hard minimum 3건",
+    "v43 품질통과 후보 부족: 산업동향 0건 / hard minimum 1건"
+  ],
+  "suggested_human_checks": [
+    "v42: daily-safe rescue counts self=3, gov=2, comp=5, industry=0",
+    "v43: hard_min self=3/2, gov=2/3, comp=5/3, industry=0/1; soft_target self=3, gov=5, comp=4, industry=1"
+  ]
+}

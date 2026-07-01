@@ -2,16 +2,11 @@
   "overall": "주의",
   "warnings": [
     "QA failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}",
-    "경쟁사/해외 섹션 부적합 가능: 이강일 의원, 글로벌 빅테크 조세회피 차단법 대표발의 / v28_korean_regulator_action_not_competitor_duplicate",
-    "경쟁사/해외 섹션 부적합 가능: 공공 AI 생태계 풀스택 파트너 되겠다…네이버클라우드, AX 시장 정조준 / v28_competitor_without_direct_action",
-    "본문추출실패 기사가 4개로 v29 상한 1개를 초과함",
+    "v43 품질통과 후보 부족: 정부/국회 2건 / hard minimum 3건",
     "v43 품질통과 후보 부족: 산업동향 0건 / hard minimum 1건"
   ],
   "suggested_human_checks": [
-    "경쟁사/해외 섹션 부적합 가능: 이강일 의원, 글로벌 빅테크 조세회피 차단법 대표발의 / v28_korean_regulator_action_not_competitor_duplicate",
-    "경쟁사/해외 섹션 부적합 가능: 공공 AI 생태계 풀스택 파트너 되겠다…네이버클라우드, AX 시장 정조준 / v28_competitor_without_direct_action",
-    "본문추출실패 기사가 4개로 v29 상한 1개를 초과함",
-    "v42: daily-safe rescue counts self=3, gov=4, comp=4, industry=0",
-    "v43: hard_min self=3/2, gov=4/3, comp=4/3, industry=0/1; soft_target self=3, gov=5, comp=4, industry=1"
+    "v42: daily-safe rescue counts self=3, gov=2, comp=5, industry=0",
+    "v43: hard_min self=3/2, gov=2/3, comp=5/3, industry=0/1; soft_target self=3, gov=5, comp=4, industry=1"
   ]
 }
