@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14 14:29",
+  "header": "[9월 14일(월) 주요 이슈]",
+  "category_order": [
+    "자사 및 계열사 이슈",
+    "정부/국회",
+    "경쟁사/해외이슈",
+    "산업동향"
+  ],
+  "categories": {
+    "자사 및 계열사 이슈": [
+      {
+        "title": "[IT라운지] 마리트 '크리에이트립 인수'·카카오툴즈 '파트너 추가'·카카오맵 '옥토버페스트 지도'·이스트-K몬스터 'MOU'·알바천국 '채용지원'",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=853391",
+        "source": "뉴스웍스",
+        "summary": ""
+      },
+      {
+        "title": "카카오 노조, 소액주주와 손잡나…\"소규모합병 반대 동참을\"",
+        "link": "https://www.yna.co.kr/view/AKR20260911073300017",
+        "source": "연합뉴스",
+        "summary": ""
+      },
+      {
+        "title": "300억 마이너스통장 뚫은 카카오페이증권…영업확대에 유동성 '안전판' |",
+        "link": "https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4434622",
+        "source": "연합인포맥스",
+        "summary": "300억 마이너스통장 뚫은 카카오페이증권…영업확대에 유동성 '안전판' 최근 한도 대출 약정 체결, 선제적 현금 흐름 관리 일환 (서울=연합인포맥스) 양용비 기자 = 카카오페이증권이 300억원 규모의 금융기관 한도대출 약정을 새로 체결했다. 14일 금융투자업계에 따르면 카카오페이증권은 최근 이사회를 열고 300억 원의 금융기관 한도대출 약정 체결을 결정했다."
+      }
+    ],
+    "정부/국회": [
+      {
+        "title": "정부, 개인정보 대규모·반복 유출 시 매출액 최대 10% 과징금 부과",
+        "link": "http://www.nbnnews.co.kr/news/articleViewAmp.html?idxno=1055394",
+        "source": "내외뉴스통신",
+        "summary": ""
+      },
+      {
+        "title": "쿠팡 vs 공정위 '현장조사 집행정지' 갈림길…유통 규제 지형, 법원 판단에",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=275419",
+        "source": "파이낸셜포스트",
+        "summary": ""
+      },
+      {
+        "title": "경남도, 조선·해양 제조 AI 허브 구축 본격화… 글로벌 기술 거점 육성",
+        "link": "https://www.mtnews.net/news/articleView.html?idxno=25940",
+        "source": "기계신문",
+        "summary": "K-조선 비전 및 2027년 정부 예산안 연계… 피지컬 AI 실증·자율제조 검증 추진 경상남도가 정부의 ‘K-조선 미래비전’과 2027년도 정부 예산안 편성 방향에 맞춰 도내 조선산업의 인공지능(AI) 대전환을 추진, 경남을 대한민국 조선·해양산업의 미래기술 중심지이자 글로벌 기술 선도 거점으로 집중 육성한다. 현장 암묵지 데이터화·피지컬 AI 실증으로 자율제조 체계 구축 경남도는 이러한 산업 기반을 바탕으로 M.AX 기반을 집적화해 ‘대한민국 조선·해양 제조 AI 허브’를 구축할 방침이다."
+      },
+      {
+        "title": "과기정통부, ‘2025년 정보보호 공시 현황 분석보고서’ 공개…투자액 14.3%·전담인력 10.7% 증가",
+        "link": "https://www.idailynews.co.kr/article/%EA%B3%BC%EA%B8%B0%EC%A0%95%ED%86%B5%EB%B6%80-2025%EB%85%84-%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-%EA%B3%B5%EC%8B%9C-%ED%98%84%ED%99%A9-%EB%B6%84%EC%84%9D%EB%B3%B4%EA%B3%A0%EC%84%9C-%EA%B3%B5%EA%B0%9C%ED%88%AC%EC%9E%90%EC%95%A1-143%EC%A0%84%EB%8B%B4%EC%9D%B8%EB%A0%A5-107-%EC%A6%9D%EA%B0%80-2c8bee6adb4a9662ac7c",
+        "source": "idailynews.co.kr",
+        "summary": ""
+      },
+      {
+        "title": "류제명 과기정통부 2차관, 보츠와나 부통령 면담…AI·디지털 협력 논의",
+        "link": "http://www.thekorean.today/57409",
+        "source": "코리안투데이",
+        "summary": ""
+      }
+    ],
+    "경쟁사/해외이슈": [
+      {
+        "title": "KT, 금융·공공 맞춤형 AX 전환 전략 보고서 공개",
+        "link": "http://www.newskr.kr/news/articleView.html?idxno=106339",
+        "source": "newskr.kr",
+        "summary": "[센트럴경제 = 이길주 기자] KT가 규제와 보안 수준이 높은 금융 및 공공 분야의 인공지능 전환(AX) 현황과 과제를 분석한 ‘KT AX 인사이트 리포트’를 14일 발간했다. 조사 결과 금융기관의 59.5%, 공공기관의 30%가 AI 활용을 위한 개념검증(PoC) 또는 일부 업무 적용, 전사 확산 등 AX 실행 단계에 진입했다."
+      },
+      {
+        "title": "18년 네이버 보안 맡은 ‘카티스’, 1GW AI 팩토리 보안 정조준",
+        "link": "https://www.sentv.co.kr/article/view/sentv202609140038",
+        "source": "서울경제TV",
+        "summary": "18년 네이버 보안 맡은 ‘카티스’, 1GW AI 팩토리 보안 정조준 경제·산업 입력 2026-09-14 09:41:50 수정 2026-09-14 09:41:50 정창신 기자 0개 [서울경제TV=정창신기자] 시가총액 321억원 규모의 보안 기업 카티스가 네이버의 초대형 인프라 투자 국면에서 주목받고 있다. 카티스는 2008년부터 18년간 네이버의 핵심 시설 보안을 전담해 왔다."
+      },
+      {
+        "title": "공격하는 LG, 막아서는 네이버…실전서 다져지는 'K-보안 AI'",
+        "link": "https://www.newsis.com/view/NISX20260910_0003784772",
+        "source": "뉴시스",
+        "summary": ""
+      },
+      {
+        "title": "KT, 아이폰 18 프로·애플워치 시리즈 12·애플워치 울트라 4·에어팟 5 등 출시",
+        "link": "https://www.yna.co.kr/amp/view/PYH20260911098400013",
+        "source": "연합뉴스",
+        "summary": ""
+      },
+      {
+        "title": "KT, 세계 미디어 전시회서 협력사 글로벌 판로 연다",
+        "link": "https://www.yna.co.kr/amp/view/AKR20260913015200017",
+        "source": "연합뉴스",
+        "summary": ""
+      }
+    ],
+    "산업동향": []
+  }
+}
