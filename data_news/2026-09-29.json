@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29 15:00",
+  "header": "[9월 29일(화) 주요 이슈]",
+  "category_order": [
+    "자사 및 계열사 이슈",
+    "정부/국회",
+    "경쟁사/해외이슈",
+    "산업동향"
+  ],
+  "categories": {
+    "자사 및 계열사 이슈": [
+      {
+        "title": "카카오페이, 고객 개인정보 판매...토스는 자회사만 제공",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EaEFpSmJGUExjUkZ5by1zYUE3N3JpWTIzTVdzZDJxTmVSVmJaMERTWmtBN2JsNy1GS3YxeG5VclFMRC1NZnRMSDlsT3lFdGVlNnc1UEdaVXBmRU1BLXpyM1ZabVdvMHl6NWpv?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "뉴스포트",
+        "summary": ""
+      },
+      {
+        "title": "카카오, CA협의체에 김도영 카카오X 대표 내정자 배치",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTLVR2ZURYbzI5Y2k1M0FqT1l6UmljSnR2SV9RbmwxVHhnbjByTENTamhOdXJSa3lzZVE0d2JHeDZDa1B4NlVSUlNuZkZDcXZQSDJpdXFGSUY1d2xrYkFGb0hRTzk?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "MTN 머니투데이방송",
+        "summary": ""
+      },
+      {
+        "title": "상반기 증권사 민원 2배 급증...스페이스X '빈손 청약' 미래에셋·전산장애 카카오페이증권에 집중",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VVERTNUM4UC04LWJPWTJqSXZYdGMtQm1lcHZmcThEaDNhWGx4b21uOFU0TGtMRnBGbmlrbDZoTHVwYlp5MnFKQXRkZW5tdGsyMnRRLXZlTG1JYTEzRm9BQWxxRmNxVGNXSENGNw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "생생비즈플러스",
+        "summary": ""
+      }
+    ],
+    "정부/국회": [
+      {
+        "title": "개보위 출범 후 과징금 '1조원' … 쿠팡 두 건에 56% 부과",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54cElFbXlndi15Vkp5d1lpVVFmVTM4OXhQTWs2cG0yaWdPR0Y4YTJ5OXljd3RLdm1Wbmc2U3Z5U284enB1WTJWTlNRdUdLOF9ZbE1vblFxMmQ4TF9aNk5IeGFlQ1ctb3hpZkZtUjVkbk5kVWvSAXNBVV95cUxOeHBJRW15Z3YteVZKeXdZaVVRZlUzODl4UE1rNnBtMmlnT0dGOGEyeTl5Y3d0S3ZtVm5nNlN2eVNvOHpwdVkyVk5TUXVHSzhfWWxNb25RcTJkOExfWjZOSHhhZUNXLW94aWZGbVI1ZG5OZFVr?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "세이프타임즈",
+        "summary": ""
+      },
+      {
+        "title": "[시큐리티 포커스] 개보위 '개인정보 보호주간' 운영-'AI 프라이버시 포럼'·개보위-통신3사 'AI·디지털 사회' 협력·KISIA-IITP 'R&D 기술·성과교류회'",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LblQwQjlkMEhiQ3JSUVBvTWd5Nzc0ZnJSRUp1VXkyOFdYM2dwUVdNVkF4YWhKRFdfOF9WS00zb0R3bWdSV01PUFJNQk9kTE1SWWFhdDVhUzFBQkZndERwNkpXNi12dkxLaElEVE1RaGZOWm_SAXNBVV95cUxOS25UMEI5ZDBIYkNyUlFQb01neTc3NGZyUkVKdVV5MjhXWDNncFFXTVZBeGFoSkRXXzhfVktNM29Ed21nUldNT1BSTUJPZExNUllhYXQ1YVMxQUJGZ3REcDZKVzYtdnZMS2hJRFRNUWhmTlpv?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "newsworks.co.kr",
+        "summary": ""
+      },
+      {
+        "title": "주병기 공정위원장, 쿠팡 현장조사 집행정지 기각한 법원에 \"경제적 약자 권익에 손 들어준 것 매우 다행\"",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1Z6QmhCZ1MwQXZyUUIxb0dLeEEwbnR5RXZxMDVaOUMzcXM5NktwLXdnUGRycERmaVVGSUZleTNhZGZtU0lnOHBBNDhuN1RyVjNLai1abWtXbHh6TGJVYklGZk50aWJnUGJTSHBadGNva0J5blY2TUVtVVN3a19jRjJXZTk2eEQzdnFpU3BR?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "조선일보",
+        "summary": ""
+      },
+      {
+        "title": "금융위 \"디지털자산기본법에 '한은 공동 협의체' 담겠다\"",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZThDZEYyMXdncmRrN3RfSHRnQ0FRdUc2MXJYZHVPOFgybXpPVUdETTRSbTNWekV4Ui03enNHWjdIWVV6ckJPeDh4cF9UVmQ5UExYcGdOd0x3RTF6TXBSUVZManpkT1A4d3hUV0F1a0dUakM5MzdWSDczZ3dGNG4tMw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "edaily.co.kr",
+        "summary": ""
+      },
+      {
+        "title": "원화 스테이블코인 입법 논의…금융위 “재경부·한은과 협의”",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wb0VLT2lUNHJQVHFGT0lzdnA5RVZHa0w5RGVyTzNlN0xtQ011WE5FbVRRLWwwNFhKY1Q2dmFGaFh3UWVjN1BjWGtuSWdLRFQ1SFRnTGswdmRudw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "경북매일",
+        "summary": ""
+      }
+    ],
+    "경쟁사/해외이슈": [
+      {
+        "title": "SKT ‘독파모’ 주역 엔비디아로…AI 인재 빨아들인다",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CTUtXb2pPTVJGZENMWXFic0ZDdWpSYWlqMUwwUlA2N3pWc0NVMHBIYUVaSGtyMVpjWDl5dUZycW91emdHWWY2MmZRTUowSkhtNjVN0gFYQVVfeXFMTXI0VHp2U1BCdWRyTWMyd1RZNVFQMnBWbF9yTDkyaWZJXzU4SkJhWnBlTC1aazhQZHNJcFZEY3F3WWh6YmJubGhSN3NtRkRDSV9fdmwxQmhKTA?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "SBS Biz",
+        "summary": ""
+      },
+      {
+        "title": "네이버, 멕시코 AI 시장 노크···공공AX부터 데이터센터까지 협력 모색",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zNkFyMWMzVTNIcDVKZXVPTXFqcWI2ekdDV1ExMHJZSDNTd0kwNVJrQXJLek11Q2VhdGZWQ3hCakJ4akZqSFdBeUFPTVA0Q1UzdEJITHJwU3k2TUFoM0ZJZkJYM1lkZDgtdmc?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "뉴스웨이",
+        "summary": ""
+      },
+      {
+        "title": "네이버지도 길안내, 메타 AI 글래스에서 듣는다…연내 도입 추진",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jRTN2a2d4X2dkaXFlV0lCcVIxSVpPUnhlMEhRWFhXOHRxTU1zcTBDSUNvMGdLSklmZHNMblI2Q1ZzWTRTVVZmcmZfc01lOE1DekhFekZwaDJNaHBtSXc4LWdDT21ac1ZKS3RMUldjZXVER1plQXFnYtIBeEFVX3lxTE5jRTN2a2d4X2dkaXFlV0lCcVIxSVpPUnhlMEhRWFhXOHRxTU1zcTBDSUNvMGdLSklmZHNMblI2Q1ZzWTRTVVZmcmZfc01lOE1DekhFekZwaDJNaHBtSXc4LWdDT21ac1ZKS3RMUldjZXVER1plQXFnYg?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "뉴시스",
+        "summary": ""
+      },
+      {
+        "title": "LGU+, 유럽 공급망 데이터 규제 대응 나선다…‘카테나-X’ 사업 추진",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JQkpsQ0FpVlI4VW53WUtFcmlnUm1fRGRSbXU5RnNLMFdYUjFVV0pXNHhiMXBDWDFMN2ZJeGJhNE1jX2x1ZUtwOXJyZTZvMU5ESFVpOHBRUGQyS05VQXF5Y0FtaS0?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "ddaily.co.kr",
+        "summary": ""
+      },
+      {
+        "title": "팔로알토 네트웍스, 앤트로픽 미토스·오픈AI GPT-5.6 활용 지속형 AI 보안 서비스 출시",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIVHhqOEFRaXZGMVowaVRCbjd6anFoXzNseEtJcmNaVzBiTnQzX0dKMTNueGhseWlDVU1acGdqYjktTmZRSXAxVDdIWHZYVnByZ1NEQzZKQjk4Sk5hZkow?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "헬로티",
+        "summary": ""
+      }
+    ],
+    "산업동향": []
+  }
+}
