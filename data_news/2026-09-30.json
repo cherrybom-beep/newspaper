@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30 14:50",
+  "header": "[9월 30일(수) 주요 이슈]",
+  "category_order": [
+    "자사 및 계열사 이슈",
+    "정부/국회",
+    "경쟁사/해외이슈",
+    "산업동향"
+  ],
+  "categories": {
+    "자사 및 계열사 이슈": [
+      {
+        "title": "[IT라운지] 이엠넷 'AI 인재 경쟁력 강화'·비즈온-모티프 'MOU'·'아르투 GPT큐레이터' 성료·크몽 '바이브코딩 문의 급증'·알비웨어 '투자유치'·최수연 대표 'UNGC 참석'·카카오 '초신작 공개'",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuR2lnbVFBUzQyZjNuUkpRY0VfckdZNksydFVmUGpmelg2THZwU21fSEJFSXVENEs2NWFSNEQwUkFYRm16TmlKVC1lY1FpQjYyT1RLVnlGNEE3c09PVFVkY29xd2hRSk90NWVEWTZLa9IBc0FVX3lxTE41anhkcnRKcHRQbzNzREZTemhrLWtpc196SVoyTlF0NjBETkx6cEg0enU3VzYxeE00Zkpha3IxaUo2dXpkSGt0UWtvYmhOLXRvc1dldWNXVDFHa1BKSlVhNHRvZFdHWWhfb3JQQWhSVUcwR00?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "뉴스웍스",
+        "summary": ""
+      },
+      {
+        "title": "김도영 카카오X 대표 내정자 CA협의체 공동의장에",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03SWo3MlBiT0tUVzcwdms3dHhhcUlmbnBaN1NscXc1YmRRclAxclo2dTVoTUFfWFgyVGlkeldSQm9ScEIwU3p6aEJvZHNJdUxReWxpclk2a1lUWEREcVE?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "동행미디어 시대",
+        "summary": ""
+      },
+      {
+        "title": "\"카카오, 맞춤형 추천도 필수 동의에 포함…개인정보 선택권 침해 우려\"",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeWY4aGhNOWxwMEFyQ0x3TlhycVVMdFVGQTVEQzBPUmwzMlc3SHJSUkFKWnZFMkNReFFoYUlXVFdjeS1GaWFfVHktQks4UnFRT3d3bTVQSkh4SEp3UHFJbUtwM1BmQXI5SnlCNWZOblpIcWFub2VPREFaQmNncTBraDNDejQ4VnhiQ1FUeDdrc2RyYkRHQl92blU3dS1DTEM4U1QxeFBZMEQxX3FvcW9TbVNxN2tfS25qeUJtZXBzQlhCZWxXS3lKR2xQQW9zRUxyX19JTGxaT0t2MFFaeGU1YUJSQ0tGQTVMSW9hZjJVV0t2bG5vLTlZTENhSXFwRVFkUHdHV3ZrSHN3UVpxdW5wekNncmkzd2kt?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "데일리안",
+        "summary": ""
+      }
+    ],
+    "정부/국회": [
+      {
+        "title": "투자형 R&D 사업 확대되나...,정부, AI 모델 개발도 민관 SPC 검토",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwSjlsTEhOMDRIWHVSSXcwX0Q5THlDX25lamFPRHpvM0EwTHpyLThhUEJpVkIwMDdjSHYxMVdPMVZmcmFoa21RWmlEZGdBcmttMUJKNHhwb3RQS2VTQk5HNkk0Tm1BcHROUEZONkNaakpJek0?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "디지털투데이",
+        "summary": ""
+      },
+      {
+        "title": "글로벌 AI 협력 모색…과기정통부, ICT 리더십 포럼 개최",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wZTRpck01TzYxcmR3LW95TE5Rb3E3RGpmY1ZKTFd4QmRkaGZUZG9GaENOeWFvRG5mMmgxX1BFTC11SWZzd2JqUlVRVlNxcGI4UVBfODZWcGp4UmhqMTVJVzNTT3ZVTXRqaHBoeG93NE90OEk?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "디지털투데이",
+        "summary": ""
+      },
+      {
+        "title": "쿠팡 법원의 공정위 현장조사 집행정지 신청 기각에 재항고, 사전통지 의무 놓고 다퉈",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGbFJKbklnSFBzdkJoeks3X0w4TGlzZlF4SGpVaEZPTjktS1dKcXlpcEJGVHM3UGZJRkxuclN3R3VKa3J0UlB3YW1LakZSdkNNbDRsQ0kwckRWQ0FrV3oxVUtCbkl4dWlHSE5YUDc5enVZZlU?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "비즈니스포스트",
+        "summary": ""
+      },
+      {
+        "title": "금융위 \"원화 스테이블코인 입법, 한은·재경부와 협의체 구성\"",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwZ3lxODUtOS10dWpLZE9oM2t4TUZ6NWowZ3FSMEI2NFVEbVVkRE44dEpZVnVtVE5OT1Zwd2JiN3JhemUzMzJZVWFkRnhQYlpLZ283SEZGdlg1VlpfQ00zdHl30gFnQVVfeXFMTzY4MGRjR3dsQTRZSXZ5S0wwS0xsOEZsY3JLSzVVdmduc3FwbWtoZG1KTUxNcXR2Ql9wYnYzMUhHQTI0UVdMUndEblZBbGZTeV9JVUF1UXBVMmtxSUNMQW83akFBUXlJZw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "뉴스1",
+        "summary": ""
+      },
+      {
+        "title": "공정위, 이사 서비스 허위과장 광고에 과징금 부과",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9seFY5T290Z2RLWVpmdjNqWU9VaUNrNVFQT3VaQ19yZlo5N25Yd2N3UDFYbGR1ZXlnS1BSQzlIY21Eb3lnTFY1ZkpJcDZZbXM?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "아이보스",
+        "summary": ""
+      }
+    ],
+    "경쟁사/해외이슈": [
+      {
+        "title": "[단독] `쿠팡·KT` 정보 유출에도…보안 인증 취소 `0건`",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tbURvbWs3UzFIREF2eHREMFlXY19GbC1DZEgxc3pEYWVacUFUWUVBS2w2TWtlS08xMXdYZUowVk1SbHZIalhlMTZqanNqVENBTHpZeXBBeXhBczNUWHVXUWpn?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "매일신문",
+        "summary": ""
+      },
+      {
+        "title": "네이버, AI 팩토리부터 공공 AX까지…글로벌 사업화 보폭 넓힌다",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UdmE4ZXlCeTVuNzh2cWpwUDFZZ241X09ZT2lxaGt4QzZrQXhKRkdpeFQyc20tUy1SY0w2MHZEcjJsbXYwVjBtdE9nVzVhZHN5VENkRHNybDVFZkpXOFV6VVg0dnU4Z215RkU5dG96RQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "위키리크스한국",
+        "summary": ""
+      },
+      {
+        "title": "대기업 과징금 8개월 만에 1.8조, 현대제철·쿠팡은 반복 제재",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Bb05qeWVYUzFsSzRpVkJtWW1jSzZzc2dUcERqRW5VY1lmZnRYbElQc08tTjRZLXRkbnVpaFBGS2E1bDI0enJ5TTFIZkN5a0tHbTM1TUxmTDkwY3BKVlhSdmRfS0lxRGo2RHVvdzBzYS0wTnVV?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "파이낸셜리뷰",
+        "summary": ""
+      },
+      {
+        "title": "국방 AX 선점 나선 삼성SDS·네이버클라우드… 차세대 지휘통제체계 수주전 예고 - 조선비즈",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOelUxTGtTTVg2cXhIMTJodHdxVWJJb1JHWDlmY18xRnFLS090OXFLMmY4dUlWbS12cE91WUdDOFZGTVNyUGxOWERvU3NxSkY2ZDVnaGNYMjJWWDdvWmp2UjZmYWJnamJfNkROamV1UkFkOEhwZ0UzSTB1MDNNU3EyUWZR0gGWAUFVX3lxTFB3ZEViY1NPelhqdXhVS2ZCUkFJWEJPWUU5Q3pzcFNjOVZFVkZSUFFHTFpRVU9DUWxjZFNSay1YbTRJZHhTV0l5XzhKVHhhQTdyQ01CVUZ5V2VTYlFkRlo0RlhTbXgyS3R2enNLMzRiN0RhNjJvVGMwcU5JQm1hNWFiNDZqSFJZb0tpeU5fdjB3QjJQMjl6UQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "Chosunbiz",
+        "summary": ""
+      },
+      {
+        "title": "네이버클라우드, DB·서버 접속 한곳서 통제한다…개인정보 접근기록 자동 관리 ‘DSAC’ 출시",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13NllHRVJhS2E5Zl9NbWgwYnhQQnlQX0t5ajBNLVZiRG9TSnFsZ3NVdkZpMHd5azBMWE9vcHdqdEladk9aSG1uUGxhcEJVNm8?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "벤처스퀘어",
+        "summary": ""
+      }
+    ],
+    "산업동향": []
+  }
+}
