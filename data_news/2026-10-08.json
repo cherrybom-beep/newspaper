@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08 14:59",
+  "header": "[10월 8일(목) 주요 이슈]",
+  "category_order": [
+    "자사 및 계열사 이슈",
+    "정부/국회",
+    "경쟁사/해외이슈",
+    "산업동향"
+  ],
+  "categories": {
+    "자사 및 계열사 이슈": [
+      {
+        "title": "'카카오골프예약' 일부 개인정보 유출…\"피해 복구·재발 방지에 역량 총동원\"",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42bUFaQ1FuWVZIYzZoZHRrbEtBU2d1QzRiWmhXbUVJakc2OHIyNXU5S0ZwU2haZUM5ckVVNHlVNFhVZDdPd3Z5b2RKSQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "아이뉴스24",
+        "summary": ""
+      },
+      {
+        "title": "[장애인 고용⑰] 카카오, 고용률 3.6%지만…본사 고용은 13명",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Mbzg4THZnZkZzRXpLTGVReHBOT1A3dGstaTRkT1hoUm1SWVcxRzdjc1RydmRveHN0TmRuZVJCRkl3THpRQ0VVMUpnVnllQUxIbG5wN2FvdUc2Q0thVnhYZ1RsZmNqUjZvYWNBNdIBb0FVX3lxTE1BMHBsREgtbzZXRXNORl9HeWJMRTVkOHA1TUpoc3pkZ3U1c19POU5WaG0zcGJTaFV4N1ZlWG9ORGZubnNyWmpUOHo1elIxZDQtZXVsWXdyWkp2UEJiNnVLaDdIOFd1dGZFVWk4VDBLbw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "한스경제",
+        "summary": ""
+      },
+      {
+        "title": "카카오게임즈 ‘도깨비의세계’, 김태환‧이시우 '경영 시험대'",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DZ05RZ3FiTzlJZW5yU1g5MUtLcjdtZUpZTVJ1azJhWnktd05fS1M5NHctd19sZGttZk9HV3lXdEp5bTVBbVgydTBfUlR4WVpWV3VrcjYxVm1PRWg3d2tPT0hmM2Vwb3lqdUdkZU5JU0pGZ3E5M1YzclZYWTV1RUE?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "글로벌이코노믹",
+        "summary": ""
+      }
+    ],
+    "정부/국회": [
+      {
+        "title": "과기정통부, 리사 수 만나 글로벌 협력 논의…AI 인프라 협력 추진",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtMl9ub0FjLU1UNVo1LW8wbk93VU91US1jVmp1LV94b2oyS1l1ZjZxVUs0WllzOEVWZFFmWnNydG0tNFlfeV8zcUZfOWE1cjJORkNYbjZRWGtoajd2d0xUbjlFdFU?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "서울경제TV",
+        "summary": ""
+      },
+      {
+        "title": "[정무위 국감]금융권 AI 해킹 우려 속…금융위원장 \"보안 전제로 망분리 규제 완화할 것\"",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GQVE0N0hWYkZTaUJTbm9UTlhHb2kyWjdHRk1hem12VXp0XzRfVzMxRGpqWGgySE5zTmpOVUxxRnI2V0dScnVLdDFHdUhrZjM0U1VacGgwdk9OM25rb3ZzeUJhQ2NENjZidU13RmFLWGNKQjA?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "핀포인트뉴스",
+        "summary": ""
+      },
+      {
+        "title": "쿠팡, 또 공정위 상대 조사 취소소송···자료제출 집행정지도 신청",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iZ09VQ1dqTV9HOGszRFZpdE9xOEJPdDc0ZDdHTFNHeEowR3MwS2ZUNi15OVVpbWk1ZHhlVzhDTE4zM25CMTJpSDNlQ1ptOU9RUWZpSUNBV0R1d9IBX0FVX3lxTE1IWWszNU56bW5uZ1Q0RU1tZUROelF5bmk0Szd4TVNBZ19ielo0YVlIdVJ2VldDakVyY1p6WW1PTHZzTWRDcERSS1Y5NGFpMnRRVFdJNmtrSUFZanVrMXdn?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "경향신문",
+        "summary": ""
+      },
+      {
+        "title": "과기정통부, 이르면 오늘 금융권 AI 해킹 현장조사…\"금융당국과 협의\"",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tVFdKb1JHWlE2dTNkalNrQ2RhaDNMRUE1MmUwQW02Y2hxVEk2SkNNYjdCM2hNWUlfSGZRelJMRUY5M0F0WUo3Z25qT1BqMXc?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "Daum",
+        "summary": ""
+      },
+      {
+        "title": "공정위, 정유사 석유류 가격 담합 심의 착수…관련 매출 44조원",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90R3dPWk8yT1o0R2o3YnFSWWlka19TczI0UXl2VXFWRmFEb21KQmdhbHZOSFFSeGtrTlEwU0hYQWQxZ1JsZkxpTndjQ0lWeE9nOE5xVjF3SUU1Tmg4U05GLTZPMWtKUE5nOXc?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "Daily NTN",
+        "summary": ""
+      }
+    ],
+    "경쟁사/해외이슈": [
+      {
+        "title": "\"SKT·쿠팡, 새 집단소송제 도입되면 수조원 배상해야\"… 벤처·스타트업 \"생존 위협\"",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95VUJ2dUx3UElXZnoyTF9Wcm9xd3RyMXUtN0pWdFBLLXRYenlkSFp1YmJiQzlMT1ZrV0RPbVFPNlhKeEctYjk5Y2pCQ3ZBeHZBVnBuQktTRHk0dkJ2cklhZE1lTS0?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "MTN 머니투데이방송",
+        "summary": ""
+      },
+      {
+        "title": "메리츠證 \"네이버 3·4분기 실적 ↓…네오클라우드 기대는 유효\"",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BcmpHX05ucTZsT2RWUTNrS3JfYnJvUG1JYXBRNXpSRmdWekNwZGhLc0RLemhHRC1YYU9COVJaVzFXSl9oYlpJc2c2TjR1TXV3SU5XdnBIdzllZmJ2MnFB?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "뉴스1",
+        "summary": ""
+      },
+      {
+        "title": "LGU+, 22일부터 유심 자동 업데이트…보안 우려 해소 나선다",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50TVl0emtXdWtpSi1SUW84UzhaTEI1WXp0eGFUamlQVHFQN3FDczRiWUZzU252OXdBR2hUV2I5S2hyMkU1aXI3VTBXdEZWQ1JYQUE?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "매일경제 마켓",
+        "summary": ""
+      },
+      {
+        "title": "역대급 보안 국감…배경훈 \"LGU+, 증거 인멸 밝혀지면 위약금 면제 추진\" By EBN",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81bC1lZXc1X0xmRjd0bVFGWDh6RnhYUmhtY21NRzN0Zm9zYU0zWU1TNmxQenJVajU5OTVLMHI2Znk5TEZQbnJROTZtZnF1NzZlalQzUnBUdm5sNVU5NUY0UFhSaS0wdnpzUHU5cEs4UTg?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "Investing.com 한국어",
+        "summary": ""
+      },
+      {
+        "title": "KT, 홈페이지에 ‘개인정보보호법 위반’ 공표",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95am5PRUtPaEVaS1A0WTNGWDNRaTVLbHh6YkJtdFpYUTUtdFE3RmlybzhHTnRIT1pGUF9kUjVlQlRGaVM1RXpyRWtaUXFwbG9MdWJvOHI1UHgwdzJRSUlyeXF4Y1Fqb0VnTGtRSUpVeV8zNWkt0gF0QVVfeXFMT3lqbk9FS09oRVpLUDRZM0ZYM1FpNUtseHpiQm10WlhRNS10UTdGaXJvOEdOdEhPWkZQX2RSNWVCVEZpUzVFenJFa1pRcXBsb0x1Ym84cjVQeDB3MlFJSXJ5cXhjUWpvRWdMa1FJSlV5XzM1aS0?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "IT조선",
+        "summary": ""
+      }
+    ],
+    "산업동향": []
+  }
+}
