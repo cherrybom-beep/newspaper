@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14 14:07",
+  "header": "[10월 14일(수) 주요 이슈]",
+  "category_order": [
+    "자사 및 계열사 이슈",
+    "정부/국회",
+    "경쟁사/해외이슈",
+    "산업동향"
+  ],
+  "categories": {
+    "자사 및 계열사 이슈": [
+      {
+        "title": "\"투자자엔 설명, 직원엔 침묵\"…카카오 인적분할에 노조 반발",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hYXFzWHFMTzNLSElmSHc3MmJoVGlNZ0ZTU0lLUm5ibllWdVlxbGl3V1lnR1RaN0ZZSU1WSEtPVFFPc1piZDZQTzBmeE5yaUhVanYwZTZXZlU5b03SAWBBVV95cUxOcHhqZk5CZncxb01kZG1ZV1Ruc2NrSF80eEdkNDZkVHBFSFBkNHlXTlQtMGR3MmFySHZHTkZfbnFUYWUyMmdkcGF6U1VlWHVFekpjd3FuRmpmNzRfZmxOXzE?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "연합뉴스",
+        "summary": ""
+      },
+      {
+        "title": "송경희 개인정보위원장 카카오 브랜드 메시지 조사 진행 중",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85NXNVa2g1dk5tcE9YNXRxYzIxYkdKQjd2aVI2bWJPUXktV2wyNXJaQUpRc1NHaHJYVXhWVjFOZ2l0SHZNdk9lYldLZWM4T0ZHZXNyNGhhRDXSAVhBVV95cUxPOTVzVWtoNXZObXBPWDV0cWMyMWJHSkI3dmlSNm1iT1F5LVdsMjVyWkFKUXNTR2hyWFV4VlYxTmdpdEh2TXZPZWJXS2VjOE9GR2VzcjRoYUQ1?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "SBS Biz",
+        "summary": ""
+      }
+    ],
+    "정부/국회": [
+      {
+        "title": "쿠팡 공정위 조사 거부에 여야 질타 … '국회 공동 대응해야'",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yQUlycHkxR3V4STlyNXM0MG1aS1poNjdheGNFTzNEc25xSmo2MURaemR2Z3RpOFVMa3hNcGdubVNUeG5zQUJPcTNlOWxVUG5kTTlWb1FKRTRwYlFSZVZNS2s1cm9XT2lqX2NTdFpIV2E3VmPSAXNBVV95cUxOckFJcnB5MUd1eEk5cjVzNDBtWktaaDY3YXhjRU8zRHNucUpqNjFEWnpkdmd0aThVTGt4TXBnbm1TVHhuc0FCT3EzZTlsVVBuZE05Vm9RSkU0cGJRUmVWTUtrNXJvV09pal9jU3RaSFdhN1Zj?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "세이프타임즈",
+        "summary": ""
+      },
+      {
+        "title": "정부사업 AI학습데이터, ‘AI허브’ 연계·제공 의무화",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03dEhUeFlsUmxGdnJsUUN1bVZBWk02eUVwWFNJMGV5TDkxX2dkTk9sbjk2ckNOZ1FNRzFoMTRMOVdiQTJZekp4WF9oUXdlZw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "www.dt.co.kr",
+        "summary": ""
+      },
+      {
+        "title": "금융위 \"망분리 완화 AI 보안테스트, 사전점검 거쳐 진행\"…'내부망 해킹 위험' 보도 반박",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95cmRUbENJUm1kWkNuS181SGt5bk5qVlo2bEg0aW1Mbm1uclVWRzJmb3lfdDV2RFVaTU9qMHdvTEl5WHRidW5vSjUzY291U2FsNkdVTXBjWmlTV3FBSHJTMjhhbEs5cENtWlE?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "조세일보",
+        "summary": ""
+      },
+      {
+        "title": "AI 전력 폭주 막아라…과기정통부, 'K-문샷 반도체 위원회' 출범",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81WEctZWhjQ2gzNkZsMzg4UWt2R3FwSVJJdE1aTmZvQUhyTDd6VWl0cWFDQW9zV1lTNm1KRW95RGNka3dMa21lbHo5S1lZYjlVTHdDLUxaY3FVZDNzYVhqNEwtTW5VLUZMTUNzZEQ4bFZHLXVJYWF4dtIBeEFVX3lxTE81WEctZWhjQ2gzNkZsMzg4UWt2R3FwSVJJdE1aTmZvQUhyTDd6VWl0cWFDQW9zV1lTNm1KRW95RGNka3dMa21lbHo5S1lZYjlVTHdDLUxaY3FVZDNzYVhqNEwtTW5VLUZMTUNzZEQ4bFZHLXVJYWF4dg?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "뉴시스",
+        "summary": ""
+      },
+      {
+        "title": "AI 반도체 전력 한계 넘는다…정부, 차세대 원천기술 개발 착수",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeldaME9XeUx3SlFsaVlOaGlFb1dUZUZnTGpxa3o5ZXRtVDlSQUJkbFB1WVRnOVVJR2p6U215ZkVGTVlmRGplVTV6aVlZWHMwWHNGaVF4djhfclFkSDJONnNWS2J4Vlg4OXJ2TVdFMm1vcWVtTEtFOXJtXzRUU0FTU19WVi1aaGNTT1FYOWpFb1JuVExDNjg0T3duSUNqQ0taS3BHZ1NhbE1SZ3ZoelUzbVlmWlpQTnk5cWFWTWdwN0lKbUVpMHVnWHBVc1FJUVZCWlF2dXdCUm5Va3JPa0VJMzV5dXY5YnhmQ05BX3drTjJQNVJiTUxETy14bGRKYl9MUDdR?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "데일리안",
+        "summary": ""
+      }
+    ],
+    "경쟁사/해외이슈": [
+      {
+        "title": "게리 마커스 “AI 파멸론이 오픈AI·앤트로픽 자금 조달을 도왔다”",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3pBOHUxdVpCV2MyQThWd0MzSTFvSE9CLXJMdVIwNFo2dmhOTkF6WlMteDlJZHlfdVg0aXhfbHRPbkN2RHJSUDNOSWJYQjY1UVZPQ0hrVUYyNjJiSnd0bkNjU0FtSk4tOTBvVTVRdXhpQXVNUURDWmtGOUZzMV9WZXdTWVRjeTBi?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "네이버 프리미엄콘텐츠",
+        "summary": ""
+      },
+      {
+        "title": "SKT, 해외 5GW AI데이터센터 추가 구체안 없어",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KWU5Ia21Ma3RmbVhJWkpOV2tRSUg5T3NCTXVGMVNBeUxvdkE0NHQ2NVlrWWJvZDdWY1R2Z1JIUXhHRGlFQXJrVjVyVklPUldaclptMFMxUEdqVUY2WG5lZzhHUXJBZw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "비건뉴스",
+        "summary": ""
+      },
+      {
+        "title": "KT, 제미나이 구독상품 8종 출시...최대 5TB 저장공간 제공",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pT0Y1cDlrRko3cGVtdXpnRUNsdko2T28zSEJXT0pEOG85NE0zemMyVDdYQy1qamEzWkp4STZZYzlnNU8xbWRaanJFWXkySUJ5VVdkYmNn?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "지디넷코리아",
+        "summary": ""
+      },
+      {
+        "title": "엔비디아 투자 퍼머스 상장 철회…SKT·네이버도 시험대",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYMHZJMm11SVM5VzMxTGRvSFZEOUZrNnE2T1dOQTJTWlVHZjdHMW51bjlhYWplT1U3Ym9zNTVaalNNSEE3Sy1IUXZpZ2dqNDZtaHM4YnQtanlXc1hOeWc5RU5tYUMxc0U?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "자본시장뉴스",
+        "summary": ""
+      },
+      {
+        "title": "개인정보 유출에 부실 보상·은폐 의혹까지...구글·티빙·KT 국감서 뭇매",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jc0NwRGxQRVAycFBVamNaRTVkekw3RGxCT01qOV9hM1pjRWhZRFVfdnIwRjVmM2lvT3JxOE5kUU5yMXIyYVk5RWRNTHRDRGo5Rkh0U1lwc3BXSGt4U0dj?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "MTN 머니투데이방송",
+        "summary": ""
+      }
+    ],
+    "산업동향": []
+  }
+}
