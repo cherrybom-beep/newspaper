@@ -1,0 +1,73 @@
+[10월 29일(목) 주요 이슈]
+
+☑️ 자사 및 계열사 이슈
+
+1️⃣ [카카오엔터 해부] 경영권 쥐고도 473억 더 썼다…카카오엔터, 스타쉽 풋옵션 '발목'
+https://news.google.com/rss/articles/CBMijwFBVV95cUxONXBkZURZOUFMWXZXSnJIZEhuSU8tV01rMFFNMi02MWw4TjFoUmZmVklnb010QlU5NzhCZXFtaXRCQ0RWYk9sU2R0X04xTzZRTE1GanVFTmxiMFl3djlKUm9QMVE3TUtzWV8wMVZ2bU5pTGg5dDJiQWdMVV9OOHZuNzNiNzdKQ21UN2RHaVR6RQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(Naver Blog)
+
+
+2️⃣ [카카오엔터 해부] 임원 주식 197억 사고 50억 빌려주고…카카오엔터, 스타쉽 경영진과 '돈거래'
+https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lN3Y0cjM0eG40bWIzS0htUHotUDFZd1hOSGU2UnRfXzdISjRRS0d0MU1kUFllQ1JybmtNS1BjVVBUeGp0b21RWmNBaDNXMEU?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(딜사이트)
+
+
+☑️ 정부/국회
+
+1️⃣ [2026 K-오픈소스 AX] 과기정통부 “AI 인프라·모델·활용 경쟁력 강화로 3강 도약”
+https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jb200ZzlROHNUZ3RWdWJNay1USnh4Z2dYZDhsRUJtWXVVR2I5R2hBTnQyWFJxdlY0OVpxTy1HcW1vUlU0NHlkU3dNcnVKZw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(전자신문)
+
+
+2️⃣ 이름 넣으니 개인정보 우수수…개보위, 고객센터 보안강화 권고
+https://news.google.com/rss/articles/CBMiakFVX3lxTE5TVjdGTU5WVEdNaG15a3dCa3NKVE13enNLVUljQUpvSjN6NTJUVjNLOW9oUHpGVnNweGpWS256eEQ3WThMZzBrUFpMOEYzVktVV0FVczNqcUNmRzM5NngwMW5hVlltQ0l4LVE?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(전파신문)
+
+
+3️⃣ 방미통위, 구글·애플에 과징금 637억…외부결제 허용·수수료 개선 명령
+https://news.google.com/rss/articles/CBMibkFVX3lxTE4zSEVXM0FGSTFSVnFtQ3RMTmNuRlZTS2dXMkFwOHpJVVEybS1ialliOEJpMXFpOHljV1Q5Z25wSzBBTDQzUWZKQkNsU0dKd3QwX1JFNDREM2ZCVmhqblZ3elRsaXdUODVZeHJ1aUhB?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(아시아투데이)
+
+
+4️⃣ 정부, 통신·플랫폼·금융 170여곳 보안점검…PHP 취약점도 확인
+https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LRC0yczVWQmZ1VlR1M2hBaUh6WF90X21CREZPR1k5Y1lfQzdZc0RBeEtKd3lVU28wb1liSGhXRTFfZWhpaU1IdjA5ekdmdw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(전자신문)
+
+
+5️⃣ 삼성전자, GOS 공정위 과징금 200억에 반발…"법적 대응" : 네이버 블로그
+https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6TGV0WXNLcDdMTlBHR3pSNUhlSWExQm9pTENLQzZXY09tY1ZmdXlJb0xYVVBNdzcyX0dWYi1iZ290QS1iRHM4eThSVElINkhENW5Vb2hvTi1MQQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(블로그)
+
+
+☑️ 경쟁사/해외이슈
+
+1️⃣ SK텔레콤·쿠팡 개인정보 소송·분쟁조정, 어떻게 진행되고 있나
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE52TXVVWEdWX1BjUjdicmVxekFMY19FM29fT3FVMHJsc09sWUVpNjE1ZzFnaTNPMjF4QUJpeEo1OXhPNWVoVldMajFDem5EV3BiOWVJM0V1ZDNkNDdRSklzbg?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(아시아경제)
+
+
+2️⃣ 네이버, AI 팩토리·엔비디아 투자 본격화…실적 성장 기대 속 '재무 부담'은 변수
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE56Zk5jOWkyN2x3WEhUWkhJMktETmhXZE5xSEU3Z1l1cWc1SEphcUUxQWszbjZNRkJpbzdheEd6NzRIS2lpLXVBVEZnMzdhblZvOFBjTXZZeXg0U2xOMnhF?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(MTN 머니투데이방송)
+
+
+3️⃣ 네이버 '글로벌 AI팩토리' 본궤도, 브룩필드와 90억弗 인프라 계약 - 머니투데이
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aTGd4X3ZzN3V0NHZ4RGgtbzQ1M2NNZERmRlZhLVVWUG0zVm1zbmROT1NyVm9pOEJsa0FlbkZtRXZxbUJpQ1JwcElBdmZvMnN4N1JuNGtoYlcwenVnc3AyaHRCNkUwV3PSAWxBVV95cUxOT1RYMkJpRHBDbmZBclN1Q1p6eTAwNEpSUmZQa1NsaWp3WTZvYVVyN08yYTREUDVKOGx5SVRxU2xKTjJlZ21tNkdmVm56NWxWQmFVZHlMb2tpY1phNFh4dVhQdzNtY0lSamZKWjY?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(머니투데이)
+
+
+4️⃣ 네이버페이, 소상공인 매장 분석 리포트 베타 출시
+https://news.google.com/rss/articles/CBMidEFVX3lxTE5FMkNRel9CSWs4TVV4dUl6Z3VleGdoU1pXekVjUDZaN2I4VFM2TVZMM20xbktRcXlfRXlpbUx6eG9LRm0yYmpXSkRsZmQ4eFdhbndZRHFyN045SlhtcDd1Q3Bmai00Q2ZVTjcxTElESmM4MXUx?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(글로벌뉴스통신GNA)
+
+
+5️⃣ SKT, 해킹사고로 치솟은 해지율 1년 만에 회복… 학계 "고객보상, 정보보호 투자 성과"
+https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1FXTW84ckN2MVR6VGVlWWVQS3RaM2tJWmV2anVJbEg4TFNUNzlyc1pEQmlMNXdWWFhjakwyc1ExQmx6ZGdLZEk4MEhSS0xhZ0xNS2QyX0xvVWhmQ3hOVUlCVFAtX1pWZmhXQTJaY1BSeFVnVHBQdnJrMzN1WkxOODAzNA?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(조선일보)
+
+
+☑️ 산업동향
+
+1️⃣ 인천시, ‘ICNX 2026’ 개최… 글로벌 첨단미디어·콘텐츠 산업 교류 확대
+https://news.google.com/rss/articles/CBMicEFVX3lxTE1fTGVsaDdBN0F6RVZobDFmaERMUGxybGpNd1FubnplVV81SUlVNTM1NlBTcGJiSHdJbXdnczlpZTNySjdtOTRBdFJPSlVrd2llMjhqYTZsbW1vMVBDNFJma2UxR3dIYmlCbXRVTGU4WUbSAXRBVV95cUxPcVMza3FsVWlFdVVnS3lqM1RpTkNHTE9DUkhFSURRS0ZKajZFMXdZOExVdFBITHgteGYyX1RUVkJsNzF5RFh5Y01YVjIxYkQ2VVpsSDhWc3BTTE1ib2Z5RFQtTDQ5OXA4cW94dkxkZHJUUHJHbw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(포인트데일리)
