@@ -1,73 +1,71 @@
-[10월 29일(목) 주요 이슈]
+[10월 30일(금) 주요 이슈]
 
 ☑️ 자사 및 계열사 이슈
 
-1️⃣ [카카오엔터 해부] 경영권 쥐고도 473억 더 썼다…카카오엔터, 스타쉽 풋옵션 '발목'
-https://news.google.com/rss/articles/CBMijwFBVV95cUxONXBkZURZOUFMWXZXSnJIZEhuSU8tV01rMFFNMi02MWw4TjFoUmZmVklnb010QlU5NzhCZXFtaXRCQ0RWYk9sU2R0X04xTzZRTE1GanVFTmxiMFl3djlKUm9QMVE3TUtzWV8wMVZ2bU5pTGg5dDJiQWdMVV9OOHZuNzNiNzdKQ21UN2RHaVR6RQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(Naver Blog)
+1️⃣ 수원특례시, 교차로 70곳에 실시간 교통신호 정보 제공…티맵·네이버지도·카카오내비 연동
+https://news.google.com/rss/articles/CBMib0FVX3lxTE8tRXdHa1owZXFQVUNYZWR1SDZOZG84R3Z1ODZ4NTdZNW1BWjA4Zi1kaldsRmdXY19oUXdKem1ITXVOd2tkWGwyT04wNE5GY0oyb3l3by1VVXdpTUdwbWQtb3NGU09JVmlpY211OFNxaw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(월드장애인사랑뉴스)
 
 
-2️⃣ [카카오엔터 해부] 임원 주식 197억 사고 50억 빌려주고…카카오엔터, 스타쉽 경영진과 '돈거래'
-https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lN3Y0cjM0eG40bWIzS0htUHotUDFZd1hOSGU2UnRfXzdISjRRS0d0MU1kUFllQ1JybmtNS1BjVVBUeGp0b21RWmNBaDNXMEU?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(딜사이트)
+2️⃣ [카카오뱅크 인사 전망] 윤호영 6연임 앞두고 노사 갈등…임원 17명 임기 만료
+https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOVR1V0dpM3ROV2Z6NXFwLXdrZjdQSU1kQll6MUVETDd2SzR5TnRuVEgwRG53RlpHNmN1dXZDOW9IbTlDV1QzM2RaYnBHODJ3akpldmluV0V6YlZodVNFajJXT3FPSzRZU2JVMV9SR1pQRUxr0gF0QVVfeXFMTWE5VHVXR2kzdE5XZno1cXAtd2tmN1BJTWRCWXoxRURMN3ZLNHlOdG5USDBEbndGWkc2Y3V1dkM5b0htOUNXVDMzZFpicEc4MndqSmV2aW5XRXpiVmh1U0VqMldPcU9LNFlTYlUxX1JHWlBFTGs?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(뉴스클레임)
+
+
+3️⃣ 카카오, SM엔터 지분 이전하나…음악사업 재편 주목
+https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WLXRyN0NLQk05QUFXdmVhLU0yQVhxSVEwVWQ2NDFjQ2xYM29EU0o4NzhPQjR4Vzl5QlBQa2hLbDNvMlBVMzVTWEpkTWZRcmFQX09LeDBUODFxVndkSXhGT2VHMno?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(서울경제TV)
 
 
 ☑️ 정부/국회
 
-1️⃣ [2026 K-오픈소스 AX] 과기정통부 “AI 인프라·모델·활용 경쟁력 강화로 3강 도약”
-https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jb200ZzlROHNUZ3RWdWJNay1USnh4Z2dYZDhsRUJtWXVVR2I5R2hBTnQyWFJxdlY0OVpxTy1HcW1vUlU0NHlkU3dNcnVKZw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(전자신문)
+1️⃣ 방미통위, 쿠팡 납치광고 심의·의결 준비…국회선 금지 법안
+https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nb0Q5bGVKTzhCd0RxSW00WlBIaExoWmRFbzUxZkJQUDNqeU9WMnEwT0haR3U5OUxBTHNON2tWR2JFY1MycDZ4TjlxeUlNd2gzTnVzdE9FNU_SAVhBVV95cUxPZ29EOWxlSk84QndEcUltNFpQSGhMaFpkRW81MWZCUFAzanlPVjJxME9IWkd1OTlMQUxzTjdrVkdiRWNTMnA2eE45cXlJTXdoM051c3RPRTVP?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(아주경제)
 
 
-2️⃣ 이름 넣으니 개인정보 우수수…개보위, 고객센터 보안강화 권고
-https://news.google.com/rss/articles/CBMiakFVX3lxTE5TVjdGTU5WVEdNaG15a3dCa3NKVE13enNLVUljQUpvSjN6NTJUVjNLOW9oUHpGVnNweGpWS256eEQ3WThMZzBrUFpMOEYzVktVV0FVczNqcUNmRzM5NngwMW5hVlltQ0l4LVE?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(전파신문)
+2️⃣ 개보위, 고객센터 개인정보 조회 통제 강화…이름·전화번호 마스킹 권고
+https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5Zjd4dTAwMFNJcEc5SUNXNExKRHprNEhjX3NUM0RRSzdaTzhuN2k0RVhmcFNMbDY2RGNnZ3VZSzFFRUhNc05lX1NVMkZnUXRhaXVUZXRKYi1YaTIxZFQybXczWG5fUUhS?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(www.ebn.co.kr)
 
 
-3️⃣ 방미통위, 구글·애플에 과징금 637억…외부결제 허용·수수료 개선 명령
-https://news.google.com/rss/articles/CBMibkFVX3lxTE4zSEVXM0FGSTFSVnFtQ3RMTmNuRlZTS2dXMkFwOHpJVVEybS1ialliOEJpMXFpOHljV1Q5Z25wSzBBTDQzUWZKQkNsU0dKd3QwX1JFNDREM2ZCVmhqblZ3elRsaXdUODVZeHJ1aUhB?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(아시아투데이)
+3️⃣ 쿠팡 “6200억 과징금 내면 고객 피해”…개보위 “현금 2.6조 보유”
+https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmbWVKRlBsNV9JTmtuVXBtTkw0ai1seXVFNFdBLU0wdlV4Y1lTVEx3ZkQ1UWxCSkxNTE03MTI1b1ZYcHNUa3A5SFU4dHJaNWsyMDhJRDFR?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(헤럴드경제)
 
 
-4️⃣ 정부, 통신·플랫폼·금융 170여곳 보안점검…PHP 취약점도 확인
-https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LRC0yczVWQmZ1VlR1M2hBaUh6WF90X21CREZPR1k5Y1lfQzdZc0RBeEtKd3lVU28wb1liSGhXRTFfZWhpaU1IdjA5ekdmdw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(전자신문)
+4️⃣ 방미통위, 89개 방송사 장애인방송 의무편성 지정
+https://news.google.com/rss/articles/CBMiakFVX3lxTE1CUUJUNVlrRjJ0OHl3ZTYxeWd0cHNlR3VmWUlCSmZyczlTUGlpOGpFeGZGajcyNGxDR2tCWml2dHpnenZ5NXN1MHBfVlpwWHEtTmVQR0MtLUgtSXI1NHdzU18tSVY4TjZrV0E?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(www.skedaily.com)
 
 
-5️⃣ 삼성전자, GOS 공정위 과징금 200억에 반발…"법적 대응" : 네이버 블로그
-https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6TGV0WXNLcDdMTlBHR3pSNUhlSWExQm9pTENLQzZXY09tY1ZmdXlJb0xYVVBNdzcyX0dWYi1iZ290QS1iRHM4eThSVElINkhENW5Vb2hvTi1MQQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(블로그)
+5️⃣ 방미통위 ‘인앱 결제 강제’ 과징금 반발한 구글·애플… “제3자 결제 어렵게 해”vs“결제 유연성 확대”
+https://news.google.com/rss/articles/CBMiggFBVV95cUxOazdsbUdFSG5zSW1DYVhzSEJGUlhyYXRSZEFHeVQycC1jZS1RTEsyenp5SXBZbTNTWkRSRlJfWHdOU2I1d0dva1hFS1RzWjNzWUtSQk11VUl0enAzZU56akctdUVieWd6bkVfdHRjNGd3aUpKRzQ2WWxTUUI5bm95NlRR0gGWAUFVX3lxTFB3aVRuUEI5d09yY3h5SlhUdHdzbDd2YS16Uk9RWWExSEZfRW4wTGJuTGUzNzhRcGphejl6ZXMyR2VoT200Sk16cEtLa3JhRmM0cmxJbW5EdmNmc3BBMFhoeE56cVNOcjYwemdoZVRPaGdmQkVKQmpGbHd4ZktDcFMzNEI0cVVTUHN1STVjc0NUenBkWGw4QQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(Chosunbiz)
 
 
 ☑️ 경쟁사/해외이슈
 
-1️⃣ SK텔레콤·쿠팡 개인정보 소송·분쟁조정, 어떻게 진행되고 있나
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE52TXVVWEdWX1BjUjdicmVxekFMY19FM29fT3FVMHJsc09sWUVpNjE1ZzFnaTNPMjF4QUJpeEo1OXhPNWVoVldMajFDem5EV3BiOWVJM0V1ZDNkNDdRSklzbg?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(아시아경제)
+1️⃣ 네이버·엔비디아 ‘1.3조 동맹’ 본격화…AI 팩토리 사업 속도
+https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0VmlJd0twSDBNSjktUUF0ME1XQXRwU09YRFQ1TUN0TUZoYy03M1I2TnphUkhtMlNNRG5vdUxfeTB5U1c5d1hLZGY4NjkxajBnQlHSAVNBVV95cUxQMjJXZUlCbVM4cnhkNE9wY05zcTg1VllDUnZzMk9xaEZyZG9OYnFpaDFMZ0ExLUMxN2xsQngydXJ5SXJCamRPTkp3V0FvSFFDNWRDZw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(서울경제)
 
 
-2️⃣ 네이버, AI 팩토리·엔비디아 투자 본격화…실적 성장 기대 속 '재무 부담'은 변수
-https://news.google.com/rss/articles/CBMiX0FVX3lxTE56Zk5jOWkyN2x3WEhUWkhJMktETmhXZE5xSEU3Z1l1cWc1SEphcUUxQWszbjZNRkJpbzdheEd6NzRIS2lpLXVBVEZnMzdhblZvOFBjTXZZeXg0U2xOMnhF?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(MTN 머니투데이방송)
+2️⃣ 한신평 "네이버 AI 팩토리 투자위험 제한적…현금창출력 확대 기대"
+https://news.google.com/rss/articles/CBMickFVX3lxTFBOZFYxNUdyNlhKQTNtVXFqR3J4bEF3VGE2elhRQ2xocHUxY29iMThFZkVBellVX0UwLU9RaHNTY2hRX21nUzhYb29BNDRhaXFYbEpMa0tSS3lJMFpZUXo3b3ZHVGFPXzJiVmlOQ0JVN0xzdw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(KB Think)
 
 
-3️⃣ 네이버 '글로벌 AI팩토리' 본궤도, 브룩필드와 90억弗 인프라 계약 - 머니투데이
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aTGd4X3ZzN3V0NHZ4RGgtbzQ1M2NNZERmRlZhLVVWUG0zVm1zbmROT1NyVm9pOEJsa0FlbkZtRXZxbUJpQ1JwcElBdmZvMnN4N1JuNGtoYlcwenVnc3AyaHRCNkUwV3PSAWxBVV95cUxOT1RYMkJpRHBDbmZBclN1Q1p6eTAwNEpSUmZQa1NsaWp3WTZvYVVyN08yYTREUDVKOGx5SVRxU2xKTjJlZ21tNkdmVm56NWxWQmFVZHlMb2tpY1phNFh4dVhQdzNtY0lSamZKWjY?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(머니투데이)
+3️⃣ 업무현장에 딱 맞는 AI 찾아 전사 도입… LGU+ '1팀 1AX' 효과적
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zUkEyM3d6TXhVRDlaek5tb1VRdlFKQ2pCNWZBMUIxUm01MG80LUlKcld5VXJtMUh4aHJQOXNKMUlWWE9TNVZCRTFCTmdpclZVLVY0MDNrYWhsUQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(파이낸셜뉴스)
 
 
-4️⃣ 네이버페이, 소상공인 매장 분석 리포트 베타 출시
-https://news.google.com/rss/articles/CBMidEFVX3lxTE5FMkNRel9CSWs4TVV4dUl6Z3VleGdoU1pXekVjUDZaN2I4VFM2TVZMM20xbktRcXlfRXlpbUx6eG9LRm0yYmpXSkRsZmQ4eFdhbndZRHFyN045SlhtcDd1Q3Bmai00Q2ZVTjcxTElESmM4MXUx?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(글로벌뉴스통신GNA)
+4️⃣ 유튜브, AI에 얼마나 인용되나… 구글 AI 개요 42%, 네이버는 0건
+https://news.google.com/rss/articles/CBMisgJBVV95cUxPdy1CZ2tGQ2pFZ1RLNVItemhDNFFYRDQyemRRWDc0RVZ6UzJhTmxMcURuRlp0TDJHY1hGSWdNcUNpQ2ZTM2std0tBYngyZzlvR0V5NW1CVXVoaTB5UEN3VGRvSk9sdl9hOTJHNHkySkNiNGhZbzNXVmJ2a2Zhb2RTUTJBSkpzV0lESGxGcDJ1YXhMWG5LWlpfOFoxTTJOTGh6VUlkVDRxX0d4ZHVPVmY3SlNRSmw0NVo3RzlPY2xBR0ZBZ3pqcE1aRC1yOTE4YzRnZjdNdFJ3amhWZVhjWl8wcFdJdkVqUDc3cDUyZWkxLUlhUEpBN3Z6b1RwT3lOdFJsNU90LWNzMXdWMF9raFNocV81T3p0TXh1ZVJpTzd5RG5CdkF1OVJPU3U0SmFNN3lybmc?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(디지털 인사이트 DIGITAL iNSIGHT)
 
 
-5️⃣ SKT, 해킹사고로 치솟은 해지율 1년 만에 회복… 학계 "고객보상, 정보보호 투자 성과"
-https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1FXTW84ckN2MVR6VGVlWWVQS3RaM2tJWmV2anVJbEg4TFNUNzlyc1pEQmlMNXdWWFhjakwyc1ExQmx6ZGdLZEk4MEhSS0xhZ0xNS2QyX0xvVWhmQ3hOVUlCVFAtX1pWZmhXQTJaY1BSeFVnVHBQdnJrMzN1WkxOODAzNA?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(조선일보)
-
-
-☑️ 산업동향
-
-1️⃣ 인천시, ‘ICNX 2026’ 개최… 글로벌 첨단미디어·콘텐츠 산업 교류 확대
-https://news.google.com/rss/articles/CBMicEFVX3lxTE1fTGVsaDdBN0F6RVZobDFmaERMUGxybGpNd1FubnplVV81SUlVNTM1NlBTcGJiSHdJbXdnczlpZTNySjdtOTRBdFJPSlVrd2llMjhqYTZsbW1vMVBDNFJma2UxR3dIYmlCbXRVTGU4WUbSAXRBVV95cUxPcVMza3FsVWlFdVVnS3lqM1RpTkNHTE9DUkhFSURRS0ZKajZFMXdZOExVdFBITHgteGYyX1RUVkJsNzF5RFh5Y01YVjIxYkQ2VVpsSDhWc3BTTE1ib2Z5RFQtTDQ5OXA4cW94dkxkZHJUUHJHbw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
-(포인트데일리)
+5️⃣ 핀란드 경찰, 구글 데이터센터 부지 조성사업 수사 착수
+https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCZkJ0Zy00S1Z6aFV4bDJNZmtNNUdIMjZ3bC12NGtwMGF0RXdkMHRFMFBOb1RpOS1jTFhzSGZLcEFadzZHS3FaaTltZENCOE1UUGNudlJ2bENoeGvSAWBBVV95cUxNSHRTMWFIYlR5a1luWl9mTEV5d1ZsWlE0WjBlYW4tOTExOW5jOGZVcmxhaGViN0VEbFpmYzV0STZlSTRqamRaY3N3aWF6UlpDamxBTm1tdmdIQW5BcTdfWTk?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(연합뉴스)
