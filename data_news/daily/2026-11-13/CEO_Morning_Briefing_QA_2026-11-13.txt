@@ -1,0 +1,17 @@
+{
+  "overall": "주의",
+  "warnings": [
+    "QA failed: 402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+    "경쟁사/해외 섹션 부적합 가능: 네이버, 본업 성장 둔화에 수익성 부담…AI 팩토리 성과 주목-유진 / v28_competitor_without_direct_action",
+    "경쟁사/해외 섹션 부적합 가능: 앤트로픽 IPO 상장일 및 주가 1편 : 공모가와 기업가치 분석, 오픈AI와 차이점은? / v28_competitor_without_direct_action",
+    "본문추출실패 기사가 9개로 v29 상한 1개를 초과함",
+    "v43 품질통과 후보 부족: 산업동향 0건 / hard minimum 1건"
+  ],
+  "suggested_human_checks": [
+    "경쟁사/해외 섹션 부적합 가능: 네이버, 본업 성장 둔화에 수익성 부담…AI 팩토리 성과 주목-유진 / v28_competitor_without_direct_action",
+    "경쟁사/해외 섹션 부적합 가능: 앤트로픽 IPO 상장일 및 주가 1편 : 공모가와 기업가치 분석, 오픈AI와 차이점은? / v28_competitor_without_direct_action",
+    "본문추출실패 기사가 9개로 v29 상한 1개를 초과함",
+    "v42: daily-safe rescue counts self=2, gov=3, comp=4, industry=0",
+    "v43: hard_min self=2/2, gov=3/3, comp=4/3, industry=0/1; soft_target self=3, gov=5, comp=4, industry=1"
+  ]
+}

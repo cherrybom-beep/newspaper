@@ -1,0 +1,71 @@
+[11월 13일(금) 주요 이슈]
+
+☑️ 자사 및 계열사 이슈
+
+1️⃣ 업무용 메신저 '카카오워크' 해킹···이메일·첨부파일까지 유출
+https://news.google.com/rss/articles/CBMia0FVX3lxTE11alJUamctX0VKYnAya1pVWGpLQWtXTVkzRExoVW9Gc19LYy13QXBlODZqNHFKaU9BTW9acU9TVmxLUl9rWGtoNkR4bHNQdEJsNTNPUVFCU3ZreE01b2l2M3FWcVMxYXE3VWxJ0gFvQVVfeXFMTjlzNXJ3YkVRWWhDOFBYQmxCMDRvWEJnSm14dEh5S0FQOVpCMG1ldXVvb3ktTEZCcTZNUWtXVGFkM0toeEo2OG5ZNkRPd3dIWEViSDJySWN5X1hDeElndXp2VE9RbFQ2MFdvbDlsQzlF?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(글로벌E)
+
+
+2️⃣ [K유니콘 리포트] 지분매각·美상장 사사건건 충돌… 카카오모빌리티 IPO 표류
+https://news.google.com/rss/articles/CBMib0FVX3lxTE9RYXNHUEstNjk2M3hfVVN5dWZ0WFRHMGFoZnBOaUExRnM5bC1pUzh5amdIYXM5VDNYay1oWUpVemg5UFRZVV9rbEh4TWdpbjhpUnhmWU9CMkpsZ0JwVkhJWjBFejFGZjV6Z0J2MjNDdw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(뉴스톱)
+
+
+3️⃣ 카카오노조, 인적분할 반대 서명 본격 돌입
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lLWhITk5NR0RYZlhZQVNkbk5iRi16aWhydlFxNE9NTzBaZUNJTFZkeG1tWW1DNFljN2JybldIRnc1am5uNTNFVEdDWXlvRzJGeXlqNDRSblBEWXBURzF6djVEMTJuOUFf?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(테크월드)
+
+
+☑️ 정부/국회
+
+1️⃣ 과기정통부, AI·ICT 국제공동연구 컨퍼런스 개최…글로벌 협력 확대
+https://news.google.com/rss/articles/CBMic0FVX3lxTFBFY1dDR0hLYTE3TzhpX0VPRi12d3c3QzQ5a3k2V0tpMGVRX19nRVZLN2Jsc0hPMDdJcUpzUHNEdU90N2hyWUQ4MHh1ZENGbFR4aFpWMWlMV1FKMnlGbG9MZ0I4RnRLdW8yZmZIVkNrN0RoS3c?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(디지털투데이)
+
+
+2️⃣ 신진창 금융위원회 부위원장, 가상자산업권 보안대책회의 주재
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE80NkRyNVdOUXZuZVkxWnpoNUNHcG9WT1RGZWxndWVYcFZfR3lqdmlETG1xRTJsYzZUMWNzSGZmX0d0YXd0VEF3Nko0UnZNUl9FN2Mxd2dDVWtLSC1jcmY0NQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(뉴시스)
+
+
+3️⃣ 민간 AI·사이버 기술, 국방에 접목…정부, 국방 R&D 투자전략 논의
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zY3VzMUQ5UTB3d3d5WnpLTGlFOWF4emkyY2RCRHpRRjg1UjAxSUdQRjB5WmZyODFpMklsVHllRDAwVFFwbHlUcHFnOXJLUWdDSGE4LVc5S0NyZXdpa3Vv?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(뉴스1)
+
+
+4️⃣ “원화 스테이블코인 준비금, 독립기관이 보관해야”…국회서 제도화 논의
+https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUUphbkE1dTloTUFHS1VaMWNZSG9JZjdIdXE3c0E1NTVXdnFmMEw4TTNfY1RPdFAxVFpMdGZBZnhoZXdrSkk2QTJ5QUhyVGV0S3FQUWx4N3c5UzBONnZjRDJHdWk?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(디지털데일리)
+
+
+5️⃣ 구글, 고정밀 지도 반출 보안조건 이행…정부 준수 여부 지속 점검
+https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CVURSa2FoVk5vd2xMTUY3SGl6M1o2T0U5UWZwRHAzNzJtQVIwUzJIMVU2a21kaERCV3FIYklxcTEyTllGX1Q5OEg4R1RRdl94VkZSUy00d3fSAVhBVV95cUxOQlVEUmthaFZOb3dsTE1GN0hpejNaNk9FOVFmcERwMzcybUFSMFMySDFVNmttZGhEQldxSGJJcXExMk5ZRl9UOThIOEdUUXZfeFZGUlMtNHd3?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(아주경제)
+
+
+☑️ 경쟁사/해외이슈
+
+1️⃣ 쿠팡, 과징금 부담만 1조 육박…제재 수위 적정성 도마 : 네이버 블로그
+https://news.google.com/rss/articles/CBMijwFBVV95cUxOR01KR3JOdDFlaFJzOC1TYldEMUhIZk4xUEJzOTdqbG1pR29fM3BtcnJpeTNOVGFEZVVGQ2RTWnZKRXNPWTFYU1BNTDdJTXAzaXVhbXplbUEtcjZTWG0xTFBCSUVCQWlzeFlIZU5ESUFGSzRUYUhZZkw1ZjNieXJ5VWRWNE9RNm53LXdKR2ZQYw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(Naver Blog)
+
+
+2️⃣ 네이버, 본업 성장 둔화에 수익성 부담…AI 팩토리 성과 주목-유진
+https://news.google.com/rss/articles/CBMigAFBVV95cUxPM25reGU4SlN2UXEwdEJ5Q09GMHhsZzdkUUZTaDliN2JVWi04M1A2bUlVNTQyRng1UzZGNHQ3aGRyX09wOUtHUUNHM3lVRC1CTDlidjVxdGRBbXFVYkhmMzRwc0hpZGZQQmJYUWlubF9xRjZEWHZHMzlTYjRWX2lYQw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(이데일리)
+
+
+3️⃣ [컨콜] 네이버 AI팩토리 ‘2조원 첫 계약’ 뜯어보니…“가동 첫해부터 흑자”
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oWjR2S0tXSmlNMndtMW1FME1EZUhNc25LYU9JWnE1STJOOEJ6dDFVVVVkY0o3c1NpcVMzVFRFeWJTQkRVUDduOVRvSGh0QWduLXUyNnFBVTJvS2hJLTVhV01R?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(디지털데일리)
+
+
+4️⃣ 앤트로픽 IPO 상장일 및 주가 1편 : 공모가와 기업가치 분석, 오픈AI와 차이점은?
+https://news.google.com/rss/articles/CBMigwFBVV95cUxPbnBSNDdWZmRoYV82d1oyelh1YWZmTUFZdFNBMkdOQmJic1dsNmYxdTcwSVZzd3JWWUJTU2tkX0FRc0NWRXFyc2Y0VldxVUZlelZuM19kbGQyZHVweEtWQmdiNjlsbUVmUEVTd3lLTDktNUFQbWQtVXVNWFp0QkxHU1V4dw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(네이버 프리미엄콘텐츠)
+
+
+5️⃣ "연료비·요금 개편 부담" 한국전력, 4분기 적자 전망…"네이버, 내년에도 투자비 부담" [株토피아]
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYkhfUlhNZnQzTVBuZHVCaEI0ZXpxRzdFdEZ4QW0zZDdLWEdaVDJZNlBmTUgxek1zMW1uaDVaVW9pNGtQUTlzcVlBalZvd3lnZzIxVUZ0d09qUQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako
+(파이낸셜뉴스)
