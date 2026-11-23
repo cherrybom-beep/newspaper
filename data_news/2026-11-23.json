@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23 16:54",
+  "header": "[11월 23일(월) 주요 이슈]",
+  "category_order": [
+    "자사 및 계열사 이슈",
+    "정부/국회",
+    "경쟁사/해외이슈",
+    "산업동향"
+  ],
+  "categories": {
+    "자사 및 계열사 이슈": [
+      {
+        "title": "AI 해킹 범람하는데 네이버·카카오 보안투자 '미흡', 국민 플랫폼에도 정보유출 사고 터질라",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91QVQ4RzJBbGg1T1pxOWwyZnRKTTlIMllDbk1hMG9lWGFBY0pBQkdMeV9PSG5rTHJSWWozNTlGcndYSHA2T3ZQLUV4YkhOOW5mY0dMUThUckxlVmRjVmFxS05lYnZWWUcydVdPRU80ZU5WTHM?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "비즈니스포스트",
+        "summary": ""
+      },
+      {
+        "title": "2대주주 TPG, 카카오에 1.5조 국제소송…인적분할 여파는?",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SZzh5aHZIM2g0TTlEbVEyaENvSG5ZUC01b1pGZ1lsQk4zdC1Ta0RfQjlVWkhsUldLUlNYY000NDBOeHdSU3ZaV3U4ZmZRUkhjWkZacm9aQkxiQ2ZrdllNSG1TRnZuZE9PTUtZNl9wZGJ2Tlgx?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "파이낸셜리뷰",
+        "summary": ""
+      },
+      {
+        "title": "LG유플러스, 카카오모빌리티 보유 볼트업 지분 전량 인수",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQmNqSzRLV2FMckpKVTNZd3NqYnJvbnREa2ZKTWxHMHRUT040SVdYNTJvS3pVX3RBb2xWb0pnd1RPNmQwZWxDN0gwWUQ1c0xqTFRHQkppSEtTNGYwdWdscVg0aGdpbzAxc1o3c1p6dEhTZ2FiZWRLY2xwY1NXRUNrTEFUbDRkdw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "글로벌이코노믹",
+        "summary": ""
+      }
+    ],
+    "정부/국회": [
+      {
+        "title": "쿠팡 “6200억 과징금, 고객 피해”…개보위 “현금 2조6000억 ‘납부 여력 충분’”",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ObF9UN0ZubEN5aDhYX3JMdF9KV1FDYmhoOXEzOVphN1psRzFqSmhYYnJMYWNUY3N2cXRXR2FQWmhXcFkzdjBQdzBza3NpVDY0bER5ZWVRaDFYLVY3Ym9ucllQRQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "쿠키뉴스",
+        "summary": ""
+      },
+      {
+        "title": "[AI픽] 정부, AI반도체 글로벌 협력 확대·공급망 안정화 논의",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5SkpyeXJ1Tk51NmVFYmdLS2h5SG9iaDhueHBwaktGcVEzUHNGV0tMOTlzNm5LbWRDMjc0dmM2TlNEY3FVOXFxdXZTbHBqcHh2b1lCYVpZeXVHdi1ZeGFMV9IBYEFVX3lxTFB5SkpyeXJ1Tk51NmVFYmdLS2h5SG9iaDhueHBwaktGcVEzUHNGV0tMOTlzNm5LbWRDMjc0dmM2TlNEY3FVOXFxdXZTbHBqcHh2b1lCYVpZeXVHdi1ZeGFMVw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "연합뉴스",
+        "summary": ""
+      },
+      {
+        "title": "과기정통부, AI반도체 공급망 점검…글로벌 빅테크 협력 확대 추진",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9naDdDQlpROVA2WVNOS0dqQ1NVRFRBSWtYb2RXTXBiTnQwQ25TWkJMVmxzaThfZ2FrZnFONS1NR3MzZzlCODAtdjFXRkdmaHZ1bkhFVHFMem1SSG1felotQVdjTFhZZ3FaMUhYVVotZTcyQmc?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "디지털투데이",
+        "summary": ""
+      },
+      {
+        "title": "엔비디아 사태·美 데이터센터 규제에…정부, AI반도체 업계 현안 긴급 점검",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NcWtDUHh0ZHBPYy1JcmhSWVNvc3BhUnE2UkdibmFpZVRLQlQ5VTNvdmd3TXVjcGlaRXE0b0V3NC1WWHo3NHRhYkZSb1I5bTBYNG01RGdWUE5HYmhIX0pvSdIBeEFVX3lxTE8taUJOZE9YZXJWNU1USnMwOFpLcENhV0JEczVra2Z3UGd5SzJpcDJIeVMwU0FidmJVcHRzN0ZRam83RGx5RFhHSkVweUhZVkZ3ZHRkanFXMmstZC1oM1NIVkRQSkt0SUdrSVlheTRzQjd3QlVkQWRscQ?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "뉴시스",
+        "summary": ""
+      },
+      {
+        "title": "[글로벌 금융협력] 이억원 금융위원장, 유럽서 AI·스테이블코인 금융위험 대응 논의",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SWczV3dGZl84bWdvOFoteUNTay1Ta2ozekxUbV9FcFdhZUsyOHRVdGFxVFk3RGlkWGl1VzNVZGh3NUd0Z000aGI5UnppaThuaTc1dGFRZ241OTJEMGExZ2MwUnFwV3piZGFKbzh3?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "코리아포스트 한글판",
+        "summary": ""
+      }
+    ],
+    "경쟁사/해외이슈": [
+      {
+        "title": "\"AI로 춘천 상권 살린다\" KT, 행안부와 AX 협력 '맞손'",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlQxQkhTOEpzNGdSdE5kZnJNc2pteVRZREQzRjFUSUlva3gxOUs2ZURkNWpZQXE2T2hoS1QzVDZZaUhtSzBoNTlfdnJEMzNVZWUtM1dTQVJwMHBlTjJWaHlQY0pmMTBETlhDdjhnMkFSZWRDRXJ2RjQ2ek8xSkZkcg?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "이데일리",
+        "summary": ""
+      },
+      {
+        "title": "역대 최대 규모의 앤트로픽 IPO, 그러나 AI 투심은 여전히 제자리",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lby1INFNwblZMTHRDUU5sVzk5SFhNdzNjWjhqcGpRLVFzbmFMNWVpZnM5Ym5QR3Y0OUlpR2h5S1lWYnNxSmdvMjJWMUw2UTV0QUE?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "네이버페이 머니스토리",
+        "summary": ""
+      },
+      {
+        "title": "kt cloud-Zadara, 프라이빗 클라우드·공공시장 협력 넓힌다",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0SV9hQXQ1TlhWbFA1NzJJbks2WjFvYlZaN2xrWW1SU3lvcXFjR1VzcHYtOS1qQUZ0Z0Q0dS1xNDg0MjZ3WjNjUE91OG5wMTlpR080TzdSVXRBZEtVeGhOX2E4N3V2YTRQYlVfUG8tNnRFVDA?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "스페셜타임스",
+        "summary": ""
+      },
+      {
+        "title": "네이버, 엔비디아와 고교생 피지컬 AI 교육 지원",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yVTlDUTk1a0k5VExYVlA2WDZUNjd0b2h4T1NCVEp2ZkM5UWVvYy1tZmNkWkVTcUcxdmFYRk1lREFvOVFFVFZZN0I5QnVpZw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "전자신문",
+        "summary": ""
+      },
+      {
+        "title": "KT-수자원공사, 물관리에 피지컬 AI 도입…글로벌 진출 모색",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xb3hUX2tMd21lSHc4RHRCQ2I4eFJ5TGYxQ2Vmdm95cTBlUHg0RmZRbEphREpsa2xWOV95U3VIYlVJTlozUWhtS3Vpa3AtdWU1V1RoQ09Zd01CX2V5dllzZw?oc=5&hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "아시아경제",
+        "summary": ""
+      }
+    ],
+    "산업동향": []
+  }
+}
