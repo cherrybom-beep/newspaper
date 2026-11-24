@@ -1,0 +1,20 @@
+{
+  "overall": "주의",
+  "warnings": [
+    "QA failed: 402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}",
+    "본문추출실패 기사가 9개로 v29 상한 1개를 초과함",
+    "섹션 부적합 가능: 정부_국회 / [크립토레이더]정부, 가상자산거래소 지분 34%까지 예외 허용…신고·공시 의무하에 ICO 허용 / korean_regulator_enforcement_against_competitor_as_competitor_risk",
+    "경쟁사/해외이슈가 2건으로 v32 최소 3건보다 적음",
+    "경쟁사/해외이슈가 2건으로 v33 최소 3건보다 적음",
+    "v43 품질통과 후보 부족: 경쟁사/해외이슈 2건 / hard minimum 3건",
+    "v43 품질통과 후보 부족: 산업동향 0건 / hard minimum 1건"
+  ],
+  "suggested_human_checks": [
+    "본문추출실패 기사가 9개로 v29 상한 1개를 초과함",
+    "섹션 부적합 가능: 정부_국회 / [크립토레이더]정부, 가상자산거래소 지분 34%까지 예외 허용…신고·공시 의무하에 ICO 허용 / korean_regulator_enforcement_against_competitor_as_competitor_risk",
+    "경쟁사/해외이슈가 2건으로 v32 최소 3건보다 적음",
+    "경쟁사/해외이슈가 2건으로 v33 최소 3건보다 적음",
+    "v42: daily-safe rescue counts self=2, gov=5, comp=2, industry=0",
+    "v43: hard_min self=2/2, gov=5/3, comp=2/3, industry=0/1; soft_target self=3, gov=5, comp=4, industry=1"
+  ]
+}
